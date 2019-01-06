@@ -26,8 +26,13 @@ Note: I use Amazon Affiliate links because the small kickback helps me fund more
 |Push button switch | $7.29 | https://amzn.to/2C8t15U | I have a bag of these for random projects |
 |Momentary switch | $6.68 | https://amzn.to/2LSACcX | shop around, you want a little one that is normally open |
 |Toggle Switch | $8.56 | https://amzn.to/2SAGCJT | 3-pins, 2 positions, find the most obnoxiously oversized one you can |
+|Adafruit Towerpro Servo | $21.57 | https://amzn.to/2SDxJzu | shape file fits this specific servo, no others were tested |
+|Power Supply | $8.99 | https://amzn.to/2RB9nsP | Unless you only want to run it off USB |
+|4lb soft dive weight | $19.95 | https://amzn.to/2LUW7tZ | to keep it from shaking off the table |
 
+In addition, you'll want a basic set of jumper wires, some extra wire to connect up the servo, a 10K resistor, and if your LCD doesn't come with a pot resistor, you'll need on of those too. You'll also want a good soldering iron (though you can get away with just jumper wires and breadboards if you want). I also added some little rubber feet. 
 
+For the acrylic, you'll need access to a lasercutter. Check with your local makerspace, or, I guess, buy a Glowforge (seriously, if you do, please use my affiliate link for that: https://amzn.to/2RussNm). I use regular old cyanoacrylate "Super Glue" and just lightly hotglued the back panel of the base just in case I needed to get back in. 
 
 Build guide
 
