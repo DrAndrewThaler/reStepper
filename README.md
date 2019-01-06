@@ -2,7 +2,10 @@
 
 The future of fitness tracking is here! reStepper is an open-source, arduino-powered machine to walk your fitness tracker after those unfortunate workouts when your steps didn't get logged. Did you have the audacity to take you child for a walk in a stroller? Get those steps back! Were you foolish enough to go swimming when you could have walked in aimless circles around the pool? Don't let the credit drift away! Reckless enough to do something, anything, that might require you to take off your jewelry before working up a sweat? Let the reStepper sweat it all back! Maybe you just don't want third parties to know where you run, or where your secret morel patch is, or how fast they need to make the people harvesting machines in order to catch Charlton Heston. 
 
-The reStepper uses a highly sophisticated algorithm to convert calories burned in a not-steptacular workout into the steps you would have gotten burning those same calories on a light stroll. It works for both men and women thanks to a ridiculously oversized novelty toggle switch. 
+![The reStepper, an engineering marvel.](https://github.com/SouthernFriedScientist/reStepper/blob/master/images/reStepper.jpg)
+*The reStepper, an engineering marvel.*
+
+The reStepper uses a highly sophisticated algorithm to convert calories burned in a non-step-tacular workout into the steps you would have gotten burning those same calories on a light stroll. It works for both men and women thanks to a ridiculously oversized novelty toggle switch. 
 
 ## Are you serious?
 
@@ -46,11 +49,36 @@ The bolt supporting the swingarm on the power head is sandwiched in place with a
 
 Please refer to the following images:
 
+![Support arch above the powerhead.](https://github.com/SouthernFriedScientist/reStepper/blob/master/images/powerhead_top.jpg)
+*Support arch above the powerhead.*
 
+![Load-bearing bolt that supports the swingarm at the servo junction.](https://github.com/SouthernFriedScientist/reStepper/blob/master/images/swingarm_join.jpg)
+*Load-bearing bolt that supports the swingarm at the servo junction.*
+
+![Servo bolted to powerhead.](https://github.com/SouthernFriedScientist/reStepper/blob/master/images/powerhead_servo.jpg)
+*Servo bolted to powerhead.*
+
+![Powerhead bolted to main strut.](https://github.com/SouthernFriedScientist/reStepper/blob/master/images/powerhead_strut.jpg)
+*Powerhead bolted to main strut.*
+
+![Support spine top joint.](https://github.com/SouthernFriedScientist/reStepper/blob/master/images/spine_top.jpg)
+*Support spine top joint.*
+
+![Main strut and support spine.](https://github.com/SouthernFriedScientist/reStepper/blob/master/images/strut_middle.jpg)
+*Main strut and support spine.*
+
+![Swing arm upper hinge.](https://github.com/SouthernFriedScientist/reStepper/blob/master/images/swingarm_hinge.jpg)
+*Swing arm upper hinge.*
+
+![Swing arm lower hinge.](https://github.com/SouthernFriedScientist/reStepper/blob/master/images/swingarm_lower.jpg)
+*Swing arm lower hinge.*
+
+![Bottom of the base plate with strut and spine pass through.](https://github.com/SouthernFriedScientist/reStepper/blob/master/images/base_bottom.jpg)
+*Bottom of the base plate with strut and spine pass through.*
 
 ## FAQ Link
 
-*An FAQ will be posted to Southern Fried Science in the next few days**
+*An FAQ will be posted to Southern Fried Science in the next few days*
 
 ## Acknowledgements
 
