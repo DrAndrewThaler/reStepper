@@ -29,13 +29,31 @@ Note: I use Amazon Affiliate links because the small kickback helps me fund more
 |Adafruit Towerpro Servo | $21.57 | https://amzn.to/2SDxJzu | shape file fits this specific servo, no others were tested |
 |Power Supply | $8.99 | https://amzn.to/2RB9nsP | Unless you only want to run it off USB |
 |4lb soft dive weight | $19.95 | https://amzn.to/2LUW7tZ | to keep it from shaking off the table |
+| M3 Stainless Steel Nuts and Bolts | $10.99 | https://amzn.to/2LTsiKd | this little kit will see you through dozens of maker projects |
+| M5 Stainless Steel Nuts, Washers, Bolts, and Lock Nuts | - | - | you're better off getting these from your local hardware store |
 
 In addition, you'll want a basic set of jumper wires, some extra wire to connect up the servo, a 10K resistor, and if your LCD doesn't come with a pot resistor, you'll need on of those too. You'll also want a good soldering iron (though you can get away with just jumper wires and breadboards if you want). I also added some little rubber feet. 
 
 For the acrylic, you'll need access to a lasercutter. Check with your local makerspace, or, I guess, buy a Glowforge (seriously, if you do, please use my affiliate link for that: https://amzn.to/2RussNm). I use regular old cyanoacrylate "Super Glue" and just lightly hotglued the back panel of the base just in case I needed to get back in. 
 
-Build guide
+## Build Guide
 
-FAQ Link
+This is a fairly straightforward build that can easily be completed in an afternoon with only basic electronics skills. If you're new to arduino, this might just be the right project to learn on. Always dry fit every piece before you glue. 
 
-Credits
+The 6mm components are all joined together with M3 bolts and nuts and the holes are lined up such that each part can only be mated to its correct opposite. 3mm support pieces are used to sandwich in the 3mm struts (no glue is required). THe spine of the long piece is glued to the center of the forked bar. THe entire arm assembly is slotted into the base and glued in place to both the top and bottom base pieces. The "bearings" of the swing arm are held in by an M4 bolt with a nut and washer sandwiching the center piece and a locking nut and washer holding in the back. 
+
+The bolt supporting the swingarm on the power head is sandwiched in place with a luckint nut, washer, and standard nut. 
+
+Please refer to the following images:
+
+
+
+## FAQ Link
+
+*An FAQ will be posted to Southern Fried Science in the next few days**
+
+## Acknowledgements
+
+Developed by [Andrew Thaler](https://twitter.com/DrAndrewThaler). Special thanks to [Amy Freitag](https://twitter.com/bgrassbluecrab), [David Shiffman](https://twitter.com/WhySharksMatter), [Jake Levenson](https://twitter.com/JacobLevenson), and all the folks in my FitBit Workweek Challenge who are super annoyed right about now. 
+
+Please visit my [Patreon page](https://www.patreon.com/Andrew_Thaler) to support more weird and wonderful projects like this. 
