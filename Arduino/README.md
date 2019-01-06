@@ -2,4 +2,4 @@
 
 This code will allow the reStepper to run on an Adafruit Metro or other similar Arduino-based microcontroller. Check the code comments for pinout guide. 
 
- Rotary encoder source code from bildr article: http://bildr.org/2012/08/rotary-encoder-arduino/
+Rotary encoder source code from bildr article: http://bildr.org/2012/08/rotary-encoder-arduino/
