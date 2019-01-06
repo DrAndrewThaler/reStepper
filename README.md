@@ -10,7 +10,7 @@ I mean, not really, obviously (though the reStepper does work exactly as promise
 
 And when it starts swinging for the first time, you won't stop laughing.
 
-Isof you want to add some blinking LEDs, there's plenty of room for that, too. 
+If you want to add some blinking LEDs, there's plenty of room for that, too. 
 
 ## Bill of Materials
 
