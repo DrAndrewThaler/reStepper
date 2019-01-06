@@ -1,4 +1,4 @@
-#Arduino Source Code for reStepper by Andrew Thaler
+# Arduino Source Code for reStepper by Andrew Thaler
 
 This code will allow the reStepper to run on an Adafruit Metro or other similar Arduino-based microcontroller. Check the code comments for pinout guide. 
 
