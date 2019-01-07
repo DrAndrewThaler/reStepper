@@ -78,7 +78,7 @@ Please refer to the following images:
 
 ## FAQ Link
 
-*An FAQ will be posted to Southern Fried Science in the next few days*
+[I built an open-source robot that steps your steps when the steps you stepped weren’t counted by your step counter: Frequently Asked Questions.](http://www.southernfriedscience.com/i-built-an-open-source-robot-that-steps-your-steps-when-the-steps-you-stepped-werent-counted-by-your-step-counter-frequently-asked-questions/)
 
 ## Acknowledgements
 
